@@ -1,4 +1,4 @@
 > Stay hungry Stay foolish. -- Steve Jobs.
 
-## C++ Install
+## C++ Installation
 [doc](./src/README.md)
