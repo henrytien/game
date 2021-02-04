@@ -1,0 +1,2 @@
+https://github.com/open-source-parsers/jsoncpp.git
+commit: a07fc53287d4efeada0bc295ed70e195b2f7aa4f (on Mar 14, 2018)
