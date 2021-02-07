@@ -1,1 +1,1 @@
-> Stay hungry Stay foolish. -- Steve Jobs.
+> you can use "./configure && make && make install" to install the log4cpp lib
